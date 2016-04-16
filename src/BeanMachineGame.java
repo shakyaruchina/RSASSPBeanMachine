@@ -98,9 +98,8 @@ public class BeanMachineGame {
 				for(check = 0; check < right[i]; check++){
 					for(int z = 0; z < right[i];z++) {
 						System.out.print("_					}
-					System.out.print("0			}
-				System.out.println();
+					System.out.print("0"	}
+				System.out.println("This is it");
 			}
 		}
-	}
-}
+	
